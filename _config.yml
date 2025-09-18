@@ -1,7 +1,0 @@
-title: "Minha Landing Page"
-description: "Uma landing page profissional"
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-show_downloads: false
